@@ -67,3 +67,18 @@ int main()
 
     return 0;
 }
+sample input:Enter the number of elements: 5
+Enter 5 elements:
+Element 1: 10
+Element 2: 20
+Element 3: 30
+Element 4: 40
+Element 5: 50
+sample output:
+Array elements are:
+10 20 30 40 50
+
+Sum = 150
+Average = 30.00
+Largest element = 50
+Smallest element = 10
