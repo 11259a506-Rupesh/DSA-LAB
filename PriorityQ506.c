@@ -110,3 +110,47 @@ int main()
 
     return 0;
 }
+sample output:
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 1
+Enter Item value (Priority): 10
+Inserted Item = 10
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 1
+Enter Item value (Priority): 30
+Inserted Item = 30
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 1
+Enter Item value (Priority): 20
+Inserted Item = 20
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 1
+Enter Item value (Priority): 50
+Inserted Item = 50
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 2
+Deleted Item = 50
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 2
+Deleted Item = 30
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 2
+Deleted Item = 20
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 2
+Deleted Item = 10
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 2
+Queue Underflow
+
+1.Insert 2.DeleteMax 3.Exit
+Enter choice: 3
+Exiting...
